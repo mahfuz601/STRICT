@@ -1,0 +1,2 @@
+# STRICT
+Responsive html website
